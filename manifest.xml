@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="dances-3c5292">
+ <names>
+  <name lang="en_US">Dances</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="EvolutionOfDance">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">EvolutionOfDance</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Vangelis">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Vangelis</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="EyeOfTheTiger">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">EyeOfTheTiger</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="GangnamStyle">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">GangnamStyle</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="TaiChiChuan">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">TaiChiChuan</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="CaravanPalace">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">CaravanPalace</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="KadSiSretan_LupiDlanom">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">KadSiSretan_LupiDlanom</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="KadSiSretan_PucketajPrstima">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">KadSiSretanPucketajPrstima</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="KadSiSretan_VikniHura">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">KadSiSretan_VikniHura</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
