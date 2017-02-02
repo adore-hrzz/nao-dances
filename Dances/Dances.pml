@@ -27,5 +27,7 @@
         <File name="Vikni_glasno" src="Sounds/Vikni_glasno.wav" />
     </Resources>
     <Topics />
-    <IgnoredPaths />
+    <IgnoredPaths>
+        <Path src="Sounds/download_sounds.sh" />
+    </IgnoredPaths>
 </Package>

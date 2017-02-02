@@ -15,9 +15,6 @@
    <names>
     <name lang="en_US">EvolutionOfDance</name>
    </names>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Vangelis">
@@ -25,9 +22,6 @@
    <names>
     <name lang="en_US">Vangelis</name>
    </names>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="EyeOfTheTiger">
@@ -35,9 +29,6 @@
    <names>
     <name lang="en_US">EyeOfTheTiger</name>
    </names>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="GangnamStyle">
@@ -45,9 +36,6 @@
    <names>
     <name lang="en_US">GangnamStyle</name>
    </names>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="TaiChiChuan">
@@ -55,9 +43,6 @@
    <names>
     <name lang="en_US">TaiChiChuan</name>
    </names>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="CaravanPalace">
@@ -65,9 +50,6 @@
    <names>
     <name lang="en_US">CaravanPalace</name>
    </names>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="KadSiSretan_LupiDlanom">
@@ -75,9 +57,6 @@
    <names>
     <name lang="en_US">KadSiSretan_LupiDlanom</name>
    </names>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="KadSiSretan_PucketajPrstima">
@@ -85,9 +64,6 @@
    <names>
     <name lang="en_US">KadSiSretanPucketajPrstima</name>
    </names>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="KadSiSretan_VikniHura">
@@ -95,9 +71,6 @@
    <names>
     <name lang="en_US">KadSiSretan_VikniHura</name>
    </names>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
